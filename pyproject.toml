@@ -353,6 +353,8 @@ dev = [
     "huggingface-hub<1.0",
     "types-requests",
     "ipykernel>=7.1.0",
+    "scikit-image>=0.25.2",
+    "matplotlib>=3.10.7",
 ]
 x = [
     "accelerate",
